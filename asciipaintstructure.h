@@ -2,11 +2,11 @@
 #define ASCIIPAINTSTRUCTURE_H
 
 #define verMajor 1
-#define verMinor 1
+#define verMinor 2
 #define verPatch 0
-#define verDevPr
-#define testType ""
-#define build 600
+#define verDevPr 1
+#define testType "Beta 1"
+#define build 616
 
 class asciiPaintStructure
 {

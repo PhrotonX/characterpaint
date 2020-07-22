@@ -708,6 +708,7 @@ case '`':
 case 'z':
     static char specialSymbolBlock;
     cin >> specialSymbolBlock;
+    char special1;
     switch(specialSymbolBlock){
     case 'q': //0.6.0
         cout << "¦";
@@ -799,6 +800,46 @@ case 'z':
         break;
     case 'b':
         cout << "ÿ";
+        paintCharacters();
+        break;
+    case ';':
+        special1 = 1;
+        cout << special1;
+        paintCharacters();
+        break;
+    case ':':
+        special1 = 2;
+        cout << special1;
+        paintCharacters();
+        break;
+    case '<':
+        special1 = 3;
+        cout << special1;
+        paintCharacters();
+        break;
+    case '>':
+        special1 = 4;
+        cout << special1;
+        paintCharacters();
+        break;
+    case '?':
+        special1 = 5;
+        cout << special1;
+        paintCharacters();
+        break;
+    case '\'':
+        special1 = 6;
+        cout << special1;
+        paintCharacters();
+        break;
+    case '"':
+        special1 = 383;
+        cout << special1;
+        paintCharacters();
+        break;
+    case '|':
+        special1 = 510;
+        cout << special1;
         paintCharacters();
         break;
     }

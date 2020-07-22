@@ -12,11 +12,15 @@ Features:
 -Design with HEX colors
 -Has old encoding format (to work with borders)
 
-v1.1.0 - June 5, 2020
--Beta: Added screen clearing
--Updated help screen
--Save mechanics help can now be accessed on help page by pressing 'S'
--Changed exiting
+Plans:
+-Unused: ` then ? ' " \ | [ { ] } - _ = + ! @ # $ % ^ & * ( )
+
+v1.2.0.1 beta build 616 - July 22, 2020
+-Added symbols black & white smiley
+-Added heart, diamond, ace, spade
+-Added triangle and square
+-Available using 'z'
+-Added windows title
 
 Coming Soon: Save Button, Load Button (2.0)
 
@@ -292,3 +296,8 @@ v1.1.0.0 Beta - June 5, 2020
 -Info about save mechanics can now be accessed by pressing 'S' on help page
 -Exiting program now crashes
 -Updated help screen
+v1.1.0 - June 5, 2020
+-Beta: Added screen clearing
+-Updated help screen
+-Save mechanics help can now be accessed on help page by pressing 'S'
+-Changed exiting

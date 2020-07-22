@@ -1,9 +1,9 @@
 #include <iostream>
-//#include <windows.h>
+#include <windows.h>
 //#include <thread>
 //#include <string>
 //#include <tchar.h>
-//#include <conio.h>
+#include <conio.h>
 //#include <wincon.h>
 //#include <codecvt>
 //#include <locale>
@@ -49,7 +49,9 @@ int main(/*int argc, char* argv*/)
         }
     */
     //Main Program
+    system("title ASCIIPaint v1.2.0.1 beta");
     asciiPaintStructure asciiPaintStructureObject;
     asciiPaintStructureObject.asciiPaintInfo();
+
     return 0;
 }
