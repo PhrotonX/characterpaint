@@ -13,14 +13,14 @@ Features:
 -Has old encoding format (to work with borders)
 
 Plans:
--Unused: ` then ? ' " \ | [ { ] } - _ = + ! @ # $ % ^ & * ( )
+-Unused: z then [ { ] } - _ = + ! @ # $ % ^ & * ( )
 
 v1.2.0.1 beta build 616 - July 22, 2020
 -Added symbols black & white smiley
 -Added heart, diamond, ace, spade
 -Added triangle and square
 -Available using 'z'
--Added windows title
+-Added window title
 
 Coming Soon: Save Button, Load Button (2.0)
 
