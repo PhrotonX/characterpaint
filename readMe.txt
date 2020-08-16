@@ -15,12 +15,9 @@ Features:
 Plans:
 -Unused: z then [ { ] } - _ = + ! @ # $ % ^ & * ( )
 
-v1.2.0.1 beta build 616 - July 22, 2020
--Added symbols black & white smiley
--Added heart, diamond, ace, spade
--Added triangle and square
--Available using 'z'
--Added window title
+v1.2.0.2 alpha build 622 - August 16, 2020
+-Added new symbols to help page. Located in special symbols
+-Removed "NeutroAtoms 2020" in Info page
 
 Coming Soon: Save Button, Load Button (2.0)
 
@@ -301,3 +298,9 @@ v1.1.0 - June 5, 2020
 -Updated help screen
 -Save mechanics help can now be accessed on help page by pressing 'S'
 -Changed exiting
+v1.2.0.1 beta build 616 - July 22, 2020
+-Added symbols black & white smiley
+-Added heart, diamond, ace, spade
+-Added triangle and square
+-Available using 'z'
+-Added window title

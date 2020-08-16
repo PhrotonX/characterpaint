@@ -132,8 +132,7 @@ void asciiPaintStructure::info(){
     cout << "Release " << verMajor << "." << verMinor << "." << verPatch << /*"." << verDevPr <<*/ " " << testType << " - " << __DATE__ << " " << __TIME__ << endl << endl;
     cout << "C++ Formatting: " << __cplusplus << endl;
     cout << "STDC: " << __STDC__ << endl;
-    cout << "Build " << build << endl << endl;
-    cout << "NeutroAtoms 2020\n";
+    cout << "Build " << build << endl;
     cout << "-----------------------------------" << endl;
     paintMenu();
 }

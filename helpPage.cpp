@@ -79,11 +79,21 @@ void helpPage::specialCharacters(){
 }
 
 void helpPage::specialSymbols(){
+    char special1 = 1;
+    char special2 = 2;
+    char special3 = 3;
+    char special4 = 4;
+    char special5 = 5;
+    char special6 = 6;
+    char special7 = 383;
+    char special8 = 510;
     cout << "Special Symbols:" << endl;
     cout << "zq - ¦\tzw - §\tze - ¨\tzr - ©\tzt - ª\tzy - «\t\n\n";
     cout << "zu - ¬\tzi - ­\tzo - ñ\tzp - ò\tza - ó\tzs - ô\t\n\n";
     cout << "zd - õ\tzf - ö\tzg - ÷\tzh - ø\tzj - ù\tzk - ú\t\n\n";
-    cout << "zl - û\tzx - ü\tzc - ý\tzv - þ\tzb - ÿ\t\n\n";
+    cout << "zl - û\tzx - ü\tzc - ý\tzv - þ\tzb - ÿ\tz; - "<<special1<<"\n\n";
+    cout << "z: - "<<special2<<"\tz< - "<<special3<<"\tz> - "<<special4<<"\tz? - "<<special5<<"\tz\\ - "<<special6<<"\tz\" - "<<special7<<endl<<endl;
+    cout << "z| - "<<special8<<endl<<endl;
     helpPageCursor();
 }
 

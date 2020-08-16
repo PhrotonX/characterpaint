@@ -4,9 +4,9 @@
 #define verMajor 1
 #define verMinor 2
 #define verPatch 0
-#define verDevPr 1
-#define testType "Beta 1"
-#define build 616
+#define verDevPr 2
+#define testType "Beta 2"
+#define build 621
 
 class asciiPaintStructure
 {
