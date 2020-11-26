@@ -2175,6 +2175,7 @@ case 'C': //1.0.0
         paintCharacters();
         break;
     case 'W':
+        system("cls");
         if(directScreenClear==1){
             system("cls");
         }

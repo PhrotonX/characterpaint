@@ -39,7 +39,11 @@ void asciiPaintStructure::paintMenu(){
     }
 */
     while((menuCursor=='S')|(menuCursor=='s')){
+        if(clearScreenMode==1){
+            system("cls");
+        }
         charactersObject.paintCharacters();
+
     }
     while((menuCursor=='H')|(menuCursor=='h')){
         getHelp();
